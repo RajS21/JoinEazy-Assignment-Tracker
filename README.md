@@ -25,9 +25,9 @@ A simple React + Vite + Tailwind CSS web app to manage and track student assignm
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/joineazy-assignment-tracker.git
+   git clone https://github.com/RajS21/Joineazy-Assignment-Tracker.git
 2. Navigate into the project folder
-cd joineazy-assignment-tracker
+cd join-assignment
 
 3. Install all dependencies
 npm install
@@ -59,11 +59,11 @@ src/
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+Rajshree Shende 
 Frontend Developer | React Enthusiast  
 
 📧 *Email:* [raj02shende@gmail.com]  
-🌐 *GitHub:* [https://github.com/<your-username>](https://github.com/<your-username>)
+🌐 *GitHub:* (https://github.com/RajS21)
 
 ---
 
